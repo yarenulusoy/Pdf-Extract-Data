@@ -14,24 +14,24 @@ Kullanıcı panelinde ise bu sorguların hepsi sadece ait oldugu kullanıcı tar
   src="/images/1.png"
   alt="Alt text"
   title="Optional title"
-  style="display: inline-block; margin: 0 auto; width: 300px"> 
+  style="display: inline-block; margin: 0 auto; width: 500px"> 
   
   Kullanıcı girişi yaptıktan sonra karşımıza çıkan proje yükleme sayfası
   
-    <img
+   <img
   src="/images/2.png"
   alt="Alt text"
   title="Optional title"
-  style="display: inline-block; margin: 0 auto; width: 300px"> 
+  style="display: inline-block; margin: 0 auto; width: 500px"> 
   
   Proje yüklendikten sonra proje kaydediliyorve karşımıza o kullanıcının tüm projeleri çıkıyor
   
   
-    <img
+   <img
   src="/images/3.png"
   alt="Alt text"
   title="Optional title"
-  style="display: inline-block; margin: 0 auto; width: 300px"> 
+  style="display: inline-block; margin: 0 auto; width: 500px"> 
   
   Projeyi seçip içine girdiğimizde ise tüm bilgiler ekranda bu şekilde gözüküyor. \
   Admin panelinde ise aynı şekilde kullanıcı kısıtlaması olmadan tüm bilgiler karşımıza çıkıyor. Ek olarak kullanıcıları listeletebiliyoruz.
