@@ -1,2 +1,2 @@
 # Pdf-Extract-Data
- Kullanicilarin sisteme tez yükleyecekleri ve tezlerin özet kaynakça konu gibi cesitli kısımlarının otomatik olarak ayrışacağı bir web uygulaması.
+ Kullanıcıların sisteme tez yükleyecekleri ve tezlerin özet kaynakça konu gibi çesitli bölümlerinin otomatik olarak ayrışacağı bir web uygulaması.
